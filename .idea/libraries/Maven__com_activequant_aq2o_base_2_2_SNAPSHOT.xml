@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.activequant:aq2o-base:2.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/activequant/aq2o-base/2.2-SNAPSHOT/aq2o-base-2.2-20130215.142005-27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/activequant/aq2o-base/2.2-SNAPSHOT/aq2o-base-2.2-20130215.142005-27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/activequant/aq2o-base/2.2-SNAPSHOT/aq2o-base-2.2-20130215.142005-27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
