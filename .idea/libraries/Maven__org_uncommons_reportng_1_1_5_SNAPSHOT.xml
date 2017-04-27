@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.uncommons:reportng:1.1.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/reportng/1.1.5-SNAPSHOT/reportng-1.1.5-20140117.121333-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/reportng/1.1.5-SNAPSHOT/reportng-1.1.5-20140117.121333-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/reportng/1.1.5-SNAPSHOT/reportng-1.1.5-20140117.121333-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

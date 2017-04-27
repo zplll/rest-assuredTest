@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="product-gateway" parallel="false" thread-count="2">
+    <test verbose="2" preserve-order="true" name="Spu">
+        <classes>
+            <class name="Test01" />
+            <class name="ZhengwenTest" />
+        </classes>
+    </test> <!-- Test -->
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+
+</suite> <!-- Suite -->

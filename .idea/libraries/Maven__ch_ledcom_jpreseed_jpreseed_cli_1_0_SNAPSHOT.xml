@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ch.ledcom.jpreseed:jpreseed-cli:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/ledcom/jpreseed/jpreseed-cli/1.0-SNAPSHOT/jpreseed-cli-1.0-20141001.195949-13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/ledcom/jpreseed/jpreseed-cli/1.0-SNAPSHOT/jpreseed-cli-1.0-20141001.195949-13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/ledcom/jpreseed/jpreseed-cli/1.0-SNAPSHOT/jpreseed-cli-1.0-20141001.195949-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
