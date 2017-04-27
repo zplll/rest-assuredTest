@@ -13,5 +13,9 @@ import org.testng.annotations.Test;
  */
 public class ZhengwenTest {
 //
+    @Test
+    public void sssTest(){
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+    }
 
 }
