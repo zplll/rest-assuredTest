@@ -102,6 +102,9 @@
                         -javaagent:${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar
                         -Dcucumber.options="--plugin ru.yandex.qatools.allure.cucumberjvm.AllureReporter"
                     </argLine>
+                    <includes>
+                        <include>**/Test*.java</include>
+                    </includes>
                 </configuration>
                 <dependencies>
                     <dependency>
