@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: br.com.criativasoft.opendevice:opendevice-web-view:war:0.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/criativasoft/opendevice/opendevice-web-view/0.1.2-SNAPSHOT/opendevice-web-view-0.1.2-20150520.150719-9.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/criativasoft/opendevice/opendevice-web-view/0.1.2-SNAPSHOT/opendevice-web-view-0.1.2-20150520.150719-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/criativasoft/opendevice/opendevice-web-view/0.1.2-SNAPSHOT/opendevice-web-view-0.1.2-20150520.150719-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
